@@ -89,7 +89,7 @@ $PageImage = WPCustomClass::CustomFeatureImage(get_the_ID(),"extra-large","bgi/i
                                                         ?>
                                                         <div class="flexbox" data-direction="up" data-speed="0.45">
                                                             <div class="beerinfobox">
-                                                                <figure><img src="<?php echo $BBImage; ?>" alt=""></figure>
+                                                                <figure><img src="<?php echo $BBImage; ?>" alt="<?php the_title();  ?>"></figure>
                                                                 <div id="hidden" class="content-details fadeIn-bottom">
 																	<div class="inner">
 																	   <h5><?php the_title();  ?></h5>
@@ -98,7 +98,7 @@ $PageImage = WPCustomClass::CustomFeatureImage(get_the_ID(),"extra-large","bgi/i
                                                                         <!-- -->
     																	<div class="showPopupDetails" style="display: none;">
     																		<div class="beerdetail-img">
-    																			<figure class="bgimg"><img src="<?php echo $BBImage; ?>" alt=""></figure>
+    																			<figure class="bgimg"><img src="<?php echo $BBImage; ?>" alt="<?php the_title();  ?>"></figure>
     																		</div><!-- beerdetail-img -->
     																		<div class="beerdetail-text">
     																			<h2><?php the_title();  ?></h2>

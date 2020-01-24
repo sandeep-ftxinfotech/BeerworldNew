@@ -121,7 +121,7 @@ get_header(); ?>
 							  <img src="<?php the_field('tilt_image',get_the_ID()); ?>">
 							</a>
 						  </div>
-						  <div class="image-box"><img src="<?php echo $BBImage; ?>"></div>
+						  <div class="image-box"><img alt="<?php the_title(); ?>" src="<?php echo $BBImage; ?>"></div>
 						  <div class="caption-box">   
 							<h3 class="dont-change-me woocommerce dont-force"><?php the_title(); ?></h3>    
 							<?php the_excerpt(); ?>      
@@ -130,7 +130,7 @@ get_header(); ?>
 
 								<div class="showPopupDetails" style="display: none;">
 									<div class="beerdetail-img">
-										<figure class="bgimg"><img src="<?php echo $BBImage; ?>" alt=""></figure>
+										<figure class="bgimg"><img alt="<?php the_title(); ?>" src="<?php echo $BBImage; ?>" alt=""></figure>
 									</div><!-- beerdetail-img -->
 									<div class="beerdetail-text">
 										<h2><?php the_title();  ?></h2>
@@ -156,7 +156,7 @@ get_header(); ?>
 		<div class="row">
 			<div class="col-md-5 col-xs-12 weedingOrder">
 				<figure class="figure">
-					<img class="img-fluid"  src="<?php the_field('wedding_image',get_the_ID()); ?>">
+					<img class="img-fluid" alt="Buy Beer Online" src="<?php the_field('wedding_image',get_the_ID()); ?>">
 				</figure>
 				<div class="weddingContent text-center">
 					<span class="icon"><img src="<?php the_field('icon',get_the_ID()); ?>"></span>
