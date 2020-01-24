@@ -1,0 +1,1084 @@
+ only ipad 1024 and bigger screen landscape screen */
+
+@media only screen and (min-width: 1025px) {
+
+	#menu:hover { background:#1b1954; }
+
+	#menu:not(.menuopen):hover .menulines:before { width: 18px; }
+
+	#menu:not(.menuopen):hover .menulines:after { width: 30px; }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+	#mainmenu > ul { display:block !important; }
+
+}
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 1232px) { 
+
+	.ac-formtopinn .ac-btn input[type="button"].button { margin: 0 0 15px 0; }
+
+ }
+
+
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 1200px) { 
+
+	 .mainbannercontent h2 span { font-size: 26px; }
+
+	 .mainbannercontent h2 { font-size:40px !important; }
+
+	 .mainbannercontent .tagline { margin: 0 0 15px; }
+
+	 .button.btn-lg.btn-outline[title="Wedding Order"] { padding: 10px 50px; }
+
+	 h3 { font-size:45px !important; margin-bottom: 20px; }
+
+	 h4 {  font-size:30px !important; }
+
+	 h5 { font-size:22px !important; }
+
+	 p { margin: 0 0 15px 0 ; }
+
+	 .beerinfobox > span { margin: 13px 0; }
+
+	 .locationname { font-size:20px; }
+
+	 .orderstypesection .typeinfocontent h3 { font-size: 40px !important; }
+
+	 .orderstypesection .flexwrapperend .bgimg { height: 400px; } 
+
+	 .testimonialssection h3 { margin: 0 0 20px; }
+
+	 .secpadding { padding: 80px 0; }
+
+	 .testimonialslider * { font-size:22px; }
+
+	 .testimonialslider .slick-dots { font-size: 22px; }
+
+	 .contactsectionleft li a { font-size: 15px; }
+
+	 input[type="text"], input[type="password"], input[type="email"], input[type="tel"], input[type="search"], input[type="url"], select { height: 59px; }
+
+	 .contactsectionleft li a { width: 148px; word-wrap: break-word; }
+
+	 .locationsection.secpadding { padding-bottom:0; }
+
+	 .newslatter input[type="submit"] { padding:18px 60px !important; font-size: 16px; }
+
+	 .footertop { padding:30px 0; }
+
+	 .flogo { max-width:160px; margin:10px 0 0; }
+
+	 .contactformwrapper .cols2 { margin:0 10px; }
+
+	 .contactformwrapper .cols2 .col { padding:0 10px; }
+
+	 .contactsectionright .form-group { padding: 10px 0; }
+
+	 .footerbottom { padding:18px 0; }
+
+	 .locationsection.secpadding { padding:0 0 80px 0; }
+
+	 .brandsshowwrapper .flexbox { padding:0 20px; }	 
+
+	 .beerbrandstabwrap .tabnav { width: 115px; }
+
+	 .button.btn-lg, input[type="submit"].btn-lg, input[type="button"].btn-lg, button.btn-lg { font-size:18px; }
+
+	 .button.btn-lg.btn-outline, input[type="submit"].btn-lg.btn-outline, input[type="button"].btn-lg.btn-outline { padding: 14px 50px; }
+
+	 .button.btn-lg.btn-outline[title="Wedding Order"] { padding:14px 32px; }
+
+	 .contactinfobox h2 { font-size: 16px !important; }
+
+	 .contactinfobox address { font-size: 14px; }
+
+	 .contactinfobox { padding: 20px; }
+
+	 .contactinfobox h3 { font-size: 30px !important; }
+
+	 .contactinfobox h2 { font-size: 18px; }
+
+	 .progressbarmain ul li:after { right: -40px; }
+
+	 .welcomescreen-wrap, .welcomescreen-content { height: 500px; }
+
+	 .welcomescreen-inner p { font-size: 20px !important; }
+
+	 .welcomescreen-inner { padding: 20px 40px; }
+	 .beerworldbloginner a .beerworldblog-title { font-size: 22px; }
+	 .beerworldbloginner a .beerworldblog-date { font-size: 14px !important; }
+	 .locationi-detail .demo-gallery .demo-gallery-poster span { transform: translateY(-50%) scale(0.6); }
+	 .page-template-location-detail-page .banner-title { margin-top: 50px !important; }
+	 .kingstone-topsection .kingstone-topsectionright { padding-left: 60px; }
+	 .on-tap-kingston a .bgimg { height: 350px; }
+	 .on-tap-kingston a .kingston-innertext .kingston-title { font-size: 30px; }
+	 .ontap-area #menu_widget table thead tr th { font-size: 20px !important; }
+	 .ontap-area .has-beer-description-row-1 td span.strong { font-size: 33px !important; }
+	 .ontap-area .has-beer-description-row-1 td { padding: 10px 30px 0 !important; font-size: 16px !important; }
+	 .ontap-area .beer-description { padding: 0 30px 20px !important; } 
+	 .ontap-area #menu_widget table.beermenu caption { font-size: 40px !important; line-height: normal; margin-bottom: 20px; }
+	 .ontap-area #menu_widget table.beermenu caption span { font-size: 16px; }	 
+	 .nothingfound-area .search-form .search-submit { max-width: 120px; }
+	 .contactsectionright { padding: 0 20px; }
+	 .mainmenutop > ul li ul { left: 145%; }
+	 .mainmenutop > ul { width: auto; }
+	  #mainmenu .mainmenutop > ul > li.hasnav:after { left: 157px; }
+	 #mainmenu .mainmenutop > ul > li.hasnav:hover:after { width: 81%; }
+	 #mainmenu .mainmenutop > ul > li:nth-child(5):after { left: 313px !important; }
+	 #mainmenu .mainmenutop > ul > li:nth-child(5):hover:after { width: 25%; }
+	 .beerbrandssection .beerbrandswrapper h3 { margin-bottom: -47px !important; }
+	 .beertrendsblock .cols .col .trendsboxs h2 { font-size: 30px !important; }
+	 .beerholidaycalender .tab-container { padding: 40px 30px; } 
+	 .beercalendatebox h4 { font-size: 35px !important;	margin: 0 !important; }
+
+}
+
+ /*==========================================================================================================*/
+
+@media only screen and (max-width: 1100px) { 
+
+	.progressbarmain ul li:before { transform: translateY(-50%) scale(0.7); left: -75px; }
+
+	.progressbarmain ul li:after { right: -30px; }
+
+	.progressbarmain ul li { font-size: 15px; }
+
+ }
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 1023px) {
+
+	body { min-width:320px; }
+
+	img{ max-width: 100%; width:auto; height:auto; }
+
+	.wrap { width:auto; padding:0 20px; }
+	
+	
+
+	.default-grid.form-grid.cols2 .col { width:auto; float:none; }
+
+	.buttonset .col a { margin:0 5px 8px 0; }
+
+	.default-grid.cols4 .col { width:50%; }
+
+	.cols2.default-grid.tab-grid .col { width:100%; }
+
+	
+
+	.image-block figure { width:45%; }
+
+	.footerbottom .flinks li::before { margin: 0 15px; }
+
+	.footertop { padding: 50px 0; }
+
+	#menu { padding: 20px 30px; }
+
+	#logo { max-width: 70px; padding: 10px 0; }
+
+	.mailcall li { padding: 13px 30px; }
+
+	.mailcall li a { transform: scale(0.8); }
+
+	.menulines-button em { font-size: 17px; }
+
+	.locationname { font-size:17px; }
+
+	.locationname:before { transform: scale(0.8); }
+
+	.social li a { transform: scale(0.8); }
+
+	.locationbox { height: 290px; }
+
+	.aboutflexinnerwrapper .aboutflexinner.flex30 .bgimg { height: 540px; }
+
+	.aboutintro .bgimg { height: 480px; }
+
+	.aboutflexleft .bgimg { height: 600px; }
+
+	.beerbrandstabwrap .tab-container { width:100%; }
+
+	.beerbrandstabwrap .tabnav li { display:inline-block; float: none; width: 110px; }
+
+	.beerbrandstabwrap .tabnav { float:none; width:100%; text-align: center; margin-bottom: 50px; }
+
+	.beerbrandstabwrap .tab-container { padding: 0; }
+
+	.brandsshowwrapper { margin:0; }
+
+	.brandsshowwrapper .flexbox { padding: 0 30px; }
+
+	.beerbrandssection.secpadding { padding: 80px 0 0 0; }
+
+	.contactsectionleft li a { width: 100px; }
+
+	.aboutsectionmain { margin-bottom:50px; }
+
+	
+	.banner { height: 200px; }
+
+	
+
+	.logosvg { display:none; }
+
+	.newslatter input[type="submit"] { padding:18px 60px !important; }
+
+	#mainmenu .mainmenutop > ul > li.hasnav:after { left:45%; }
+
+	.mainmenubottom { top: auto; bottom: -310px; text-align:center; }
+
+	.loactionswrapper { transform: none; top: 75%; left: 0; padding: 20px; right: auto; width: 100%; }
+
+	.mainmenutop > ul { width:auto; }
+
+	#mainmenu .mainmenutop > ul > li.hasnav:after { left:155px; }
+
+	#mainmenu .mainmenutop > ul > li.hasnav:hover:after { width:81%; }
+
+	.mainmenubottom .copyrightarea { margin-bottom:15px; }
+
+	.mainmenubottom .copyrightarea, .mainmenubottom .mainmenubottomright { float:none; }
+
+	.contactinfobox h3 { margin-bottom: 10px !important; font-size: 27px !important; }
+
+	.contactinfobox span { width: 35px; transform: scale(0.8); }
+
+	.ac-forminfotitle { font-size: 30px !important; }
+
+	.ac-formright { padding: 50px 0 50px 30px; }
+
+	.ac-formleft  { padding: 50px 30px 50px 0; }
+
+	.progressbarmain { padding: 20px 100px; }
+
+	.progressbarmain ul li:after { width: 85px; height: 85px; right: -50px; }
+
+	.flex-wrapper-three .form-group { width: 50%; margin-bottom: 15px; } 
+
+	.flex-wrapper-three.acborder-bottom .form-group:last-child { padding: 0 10px 0 0; }
+
+	.flex-wrapper-three.acborder-bottom .form-group:nth-child(2) { padding: 0 0 0 10px; }
+
+	.acborder-bottom { padding-bottom: 20px; }
+
+	.flex-wrapper-three.acborder-bottom .form-group:first-child label { left: 20px; }
+
+	.flex-wrapper-tow.acborder-bottom .form-group:first-child label { left: 20px; }
+
+	.offlineform .flex-wrapper-tow { margin: 0; }
+
+	.offlineform .flex-wrapper-tow .form-group { width: 100%; margin-bottom: 20px; padding: 0; }
+
+	.customfile span.cust-field { width: 52%; }
+
+	.offlineform .ac-formblock.flex-wrapper-tow .form-group label { left: 20px; }
+
+	.eventsboxtext h3 { font-size: 20px !important; margin: 0 0 8px 0 !important; }
+
+	.eventsboxtext .hostedby { font-size: 16px; }
+
+	.eventdate { font-size: 16px;}
+
+	.eventdate sup { top: -2px; font-size: 12px; }
+
+	.eventsbox:hover .eventsboxtext .eventarrow { margin: 10px 0 0 0; }
+
+	.eventarrow { transform: scale(0.8); }
+
+	.location { font-size: 14px; padding: 10px; width: 120px; }
+
+	.location:after { transform: translateY(-50%) scale(0.8); left: 10px; }
+
+	.eventsbox { height: 350px; }
+
+	.eventsbox .bgimg { height: 350px; }
+
+	.events-detailarea { flex-wrap: wrap; flex-direction: column-reverse; margin: 0; }
+
+	.edetail-boxleft, .edetail-boxright { width: 100%; }
+
+	.edetail-boxright { padding: 50px 30px 50px 30px; }
+
+	.beerisproof .beerisprright h2 { font-size: 34px !important; }
+
+	.beerisproof .beerisprright h2:before { transform: scale(0.7); height: 65px; left: -13px; top: -13px; }
+
+	.recenteventinner { width: auto; }
+
+	.recevedate { margin-bottom: 8px !important; display: inline-block; }
+
+	.demo-gallery ul { flex-wrap: wrap; }
+
+	.demo-gallery ul li { width: 33.33%; }
+
+	.locationboxwrapper h3 { padding: 0 20px !important; }
+
+	.wrap { padding: 0 20px !important; }
+
+	.beerbrandarea .beerbrandstabwrap .tabnav { margin: 0; }
+
+	.beerbrandarea .btnitemcenter { margin: 60px 0 60px; }
+	.beerworldbloginner a .beerworldblog-title { font-size: 18px; }
+	.location-contdetail .cols .col h4 { font-size: 22px !important; }
+	.location-contdetail .cols .col p, .location-contdetail .cols .col address, .location-contdetail .cols .col a { font-size: 14px; }
+	/*.aboutsectionmain .aboutsectionwrap { margin-bottom: 50px; }*/
+	/*.aboutsectionmain .aboutsectionwrap:first-child { margin-top: 50px; }*/
+	.page-template-location-detail-page .banner-title { margin-top: 30px !important; }
+	.locationi-detail .galleryarea h2 { font-size: 45px !important; }
+	.beerbrandssection .order-bannerarea { padding: 100px 30px; }
+	.beerbrandssection .order-bannerinner h2 { margin-bottom: 30px !important; }
+	.beerbrandssection .order-bannerinner .ac-btn { margin-top: 30px; }
+	.beerbrandssection .order-bannerinner p { font-size: 18px; }
+	.kin-topsectext { font-size: 18px; }
+	.kingstone-topsection .kingstone-topsectionright { padding-left: 40px; }
+	.on-tap-kingston a .kingston-innertext .kingston-title { font-size: 26px; }
+	.on-tap-kingston a .kingston-innertext .kingston-viewall { font-size: 20px; }
+	.orderstypesection .typeinfocontent { padding: 0 100px 0 80px; }
+	.ontap-area #menu_widget table.beermenu caption { font-size: 30px !important; }
+	.ontap-area #menu_widget table.beermenu caption span { font-size: 14px; }
+	.ontap-area #menu_widget table thead tr th { font-size: 18px !important; }
+	.ontap-area .has-beer-description-row-1 td span.strong { font-size: 26px !important; }
+	.ontap-area .has-beer-description-row-1 td { font-size: 14px !important; }
+	.nothingfound-leftsearch p { font-size: 16px; }
+	.nothingfound-leftsearch .page-header h1 { font-size: 35px !important; }
+	.nothingfound-leftsearch { width: 60%; padding-right: 30px; }
+	.nothingfound-sidebar { width: 40%; }
+	.nothingfound-sidebar .widget h2 { font-size: 24px !important; }
+	.nothingfound-sidebar .widget ul li { padding: 4px 0 4px 15px; }
+	.nothingfound-flex { margin: 80px 0; }
+	#mainmenu .mainmenutop { min-height: 750px; }
+	.mainmenutop > ul li ul { right: auto; left: 143%; }
+	#mainmenu .mainmenutop > ul > li:nth-child(5):hover:after { width: 20%; }
+	#mainmenu .mainmenutop > ul > li:nth-child(5):after { left: 315px; }
+	.beerbrandssection .beerbrandswrapper h3 { margin-bottom: 20px !important; }
+	.beertrendsblock .cols .col { flex: 0 0 50%; margin-bottom: 20px; }
+	.beertrendsblock .cols .col { height:300px; }
+	.beerholidaybg { width: 100%; padding-right: 0; }
+	.beerholidaycalender { width: 100%; }
+	.beerholidaycalenderdate ul li { flex: 0 0 33.33%; max-width: 33.33%; }
+
+} 
+
+ /*==========================================================================================================*/
+
+@media only screen and (max-width: 907px) { 
+
+	.progressbarmain ul li:after { right: -30px; }
+
+	.progressbarmain ul li { font-size: 14px; }
+
+	.progressbarmain { padding: 20px 50px 20px 100px; }
+
+	.footerbottom .copyright { margin-bottom:10px !important; }
+	.footerbottom .flinks { float:none; display: inline-block; margin:0 auto; }
+	.footerbottom .copyright { text-align:center; float:none; }
+	.footerbottom { text-align:center; }
+
+ }
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 767px) {	
+
+	.default-grid.cols3 .col { width:50%; }
+
+	.default-grid.cols3 .col:nth-child(3) { clear:left; }
+
+	.tabnav { display:none; }
+
+	.tab-container { padding:0; border:none;}
+
+	.tab-data { margin:0 0 30px; }
+
+	.tab-data .tabnav { display:none; }
+
+	.tab-container .tabMobiletrigger { background:#1c1954; border:medium none; font-size:15px !important; text-transform:uppercase; margin:0 0 7px !important; padding:16px 54px 16px 16px !important; position:relative; cursor:pointer; font-weight:bold; color: #fff !important; }
+
+	.tabMobiletrigger:after { border-left:8px solid rgba(0, 0, 0, 0); border-right:8px solid rgba(0, 0, 0, 0); border-top:8px solid #fff; content:""; margin-top:-3px; position:absolute; right:19px; top:50%; z-index: 1; }
+
+	.tabMobiletrigger:before { background: rgba(254, 254, 254, 0.20); content:""; height:100%; position:absolute; right:0; top:0; width:54px; z-index:1; }
+
+	.tabcontent { padding:15px 0; margin:0; }
+
+	.tabMobiletrigger.rotate:after { border-top-color:#fff; -webkit-transform:rotate(180deg); -moz-transform:rotate(180deg); -ms-transform:rotate(180deg); transform:rotate(180deg); z-index: 1;}
+
+	
+
+	.heading-listblock.cols2 .col, .dropcaps-box.cols2 .col { width:100%; float:none; }
+
+	h1, h2 { font-size:30px !important; }
+
+	h3 { margin-bottom: 20px; font-size: 30px !important; }
+
+	h4 { font-size:24px !important; }
+
+	p { margin: 0 0 10px 0; font-size: 14px !important; }
+
+	.button.btn-lg.btn-outline, input[type="submit"].btn-lg.btn-outline, input[type="button"].btn-lg.btn-outline { font-size:14px; }
+
+	.button.btn-lg, input[type="submit"].btn-lg, input[type="button"].btn-lg, button.btn-lg { font-size:14px; }
+
+	.beerbrandstabwrap .tabnav li { width: 90px; }
+
+	.locationboxwrapper .cols .col { width:50%; }
+
+	.flexwrapper { flex-wrap: wrap; }
+
+	.flex50 { width:100%; flex:100% }
+
+	.orderstypesection .typeinfocontent { padding:20px 0 0 0; }
+
+	.orderstypesection .typeinfocontent p { margin:0 0 20px 0;  }
+
+	.orderstypesection > .wrap > .flexwrapper { margin:0; }
+
+	.orderstypesection > .wrap > .flexwrapper > .flex50 + .flex50 { margin: 30px 0 0; }
+
+	#mainbanner { height:auto; min-height:450px; }
+
+	.mainbannercontent h2 { font-size: 24px !important; }
+
+	/*.button.btn-lg, input[type="submit"].btn-lg, input[type="button"].btn-lg, button.btn-lg { padding: 12px 70px; }*/
+
+	.mainbannercontent h2 span { font-size: 20px; margin: 0 0 10px; }
+
+	.mainbannercontent .tagline { font-size: 14px; }
+
+	.aboutflexinnerwrapper { flex-wrap: wrap; width: 100%; }
+
+	.aboutflexleft .bgimg { height: 390px; }
+
+	.aboutflexinnerwrapper .aboutflexinner.flex30 .bgimg { height: 390px; }
+
+	.aboutflexwrapper, .aboutflexinnerwrapper { flex-wrap: wrap; }
+
+	.aboutflexinnerwrapper .aboutflexinner.flex70 { padding: 30px 20px; }
+
+	.aboutintro .bgimg { height: 360px; }
+
+	.beerbrandssection.secpadding { padding: 30px 0 0 0; }
+
+	.locationsection.secpadding { padding:0 0 30px 0; }
+
+	.orderstypesection { padding-bottom:30px; }
+
+	.contactsection { flex-wrap: wrap; }
+
+	.contactsection .contactsectionleft { flex:100%; }
+
+	.contactsection .contactsectionright { flex:100%; margin:20px 0; }	
+
+	.flex75 { flex:100%; }
+
+	.flex25 { flex:100%; }
+
+	.flex30 { flex:100%; }
+
+	input[type="text"], input[type="password"], input[type="email"], input[type="tel"], input[type="search"], input[type="url"], select { height: 46px; 			    font-size: 14px; }
+
+	textarea { height:100px; }
+
+	.testimonialssection.secpadding { padding: 30px 0; }
+
+	.testimonialssection h3 { margin: 0 0 10px; }
+
+	.testimonialslider * { font-size:14px; }
+
+	.testimonialslider .slick-dots { margin: 20px -5px 0; }
+
+	.orderstypesection > .wrap > .flexwrapper > .flex50 { padding:0; }
+
+	.newslatter input[type="submit"] { padding: 12px 10px !important; font-size: 14px; }	
+
+	.aboutflexwrapper, .aboutflexinnerwrapper { flex-wrap: wrap-reverse; }
+
+	.aboutintrocontent { padding: 20px; }	
+
+	.footertop { padding: 30px 0; }
+
+	.orderstypesection .typeinfocontent h3 { font-size:30px !important; }	
+
+	.scrolldown:before, .scrolldown:after { display:none; }
+
+	.scrolldown { bottom: 15px; }
+
+	#mainbanner { min-height: 370px; }
+
+	.banner-title { margin: 50px 0 0 0 !important; }
+
+	.ourmisssioncontent .textxs.textorange { font-size:20px; }
+
+	.aboutsectionwrapimg, .aboutsectionwrapcontent { flex: 100%; }
+
+	.aboutsectionwrapcontent { padding:20px; }
+
+	.aboutsectionmain { margin-bottom:30px; }	
+
+	.mainmenubottom ul { line-height:0.5; }	
+
+	.contactform-area h3 { font-size: 26px !important; }
+
+	.contactinfo-area .cols .col { padding: 0 10px; }
+
+	.contactinfo-area .cols .col { width: 100%; padding: 0 20px 20px 20px; }
+
+	.contactinfo-area.secpadding { padding: 30px 0 0 0;  }
+
+	.contactformwrapper .cols2 { margin: 0; }
+
+	.contactformwrapper .cols2 .col { padding: 0; }
+
+	.contactform-area { padding-bottom: 30px; }
+
+	.contactsectionright .contactfooter .txtalignright { margin: 0 !important; }
+
+	.form-block .form-group label { font-size: 14px; padding: 0; }
+
+	.form-block .form-group input, .form-block .form-group textarea { font-size: 14px; }
+
+	.textareacustom label { margin-top: -26px; }
+
+	.progressbarmain { padding: 20px; }
+
+	#progressbar { margin: 0; }
+
+	.progressbarmain ul li:after { width: 62px; height: 62px; right: -60%; }
+
+	.progressbarmain ul li:before { display: none; }
+
+	.progressbarmain ul li br { display: none; }
+
+	.active.applicantimg { width: 100%; }
+
+	.educationimg, .referencesimg, .previousimg { display: none; }
+
+	.ac-formleft, .ac-formright { flex: 100%; border: 0; }
+
+	.ac-formleft { padding: 30px 0 0 0; }
+
+	.ac-formright { padding: 20px 0 30px 0; }
+
+	.ac-formtopinn .ac-btn input[type="button"].button { font-size: 14px; }
+
+	.ac-formright .ac-btn { padding: 0; }
+
+	.ac-formtopinn p { text-align: justify; }
+
+	.ac-forminfotitle { font-size: 24px !important; }
+
+	.progressbarmain ul li { font-size: 16px; }
+
+	.ac-forminfosubtitle { font-size: 18px; }
+
+	.ac-forminfotitle sub { font-size: 14px; }
+
+	.ac-formbottomarea fieldset h2 { margin-bottom: 15px; }
+
+	.flex-wrapper-three .form-group, .flex-wrapper-tow .form-group { width: 100%;  padding: 0; }
+
+	.flex-wrapper-three.acborder-bottom .form-group:nth-child(2), .flex-wrapper-three.acborder-bottom .form-group:last-child, .flex-wrapper-three.acborder-bottom .form-group:first-child { padding: 0; }
+
+	.flex-wrapper-tow .form-group { margin-bottom: 15px; }
+
+	.ac-formbottomarea .ac-formblock { margin-bottom: 0; }
+
+	.acborder-bottom .form-group:last-child, .acborder-bottom .form-group:first-child { padding: 0; }
+
+	.acborder-bottom { margin-bottom: 20px !important; }
+
+	.progressbarmain { margin-bottom: 30px; }
+
+	.ac-formbottomarea .form-group input { height: 50px; }
+
+	.ac-formbottomarea .ac-btn { margin-top: 20px; }
+
+	.ac-formbottomarea .form-group label { font-size: 14px; }
+
+	.button.btn-lg.btn-outline, input[type="submit"].btn-lg.btn-outline, input[type="button"].btn-lg.btn-outline { padding: 14px 40px; }
+
+	.ac-formblock .form-group.active input { font-size: 14px; }
+
+	.ac-formblock .form-group label { left: 20px; }
+
+	.flex-wrapper-tow .form-group { padding: 0; }
+
+	.flex-wrapper-one, .flex-wrapper-tow, .flex-wrapper-three { margin: auto; }
+
+	.customfile span.cust-field { left: 276px; top: 14px; }
+
+	.ac-textarea .form-group { padding: 0; }
+
+	/*.ac-textarea label { margin-top: -45px !important; }*/
+	.ac-textarea label { top: 25px !important; }
+
+	.customfile { height: 50px; }
+
+	.customfile span.cust-field { top: 12px; }
+
+	.eventsarea .cols .col { width: 50%; }
+
+	.eventsarea { margin: 30px 0 30px 0; }
+
+	.eventsarea .cols .col { margin-bottom: 15px; }
+
+	.beerisproof .beerisprleft, .beerisproof .beerisprright { width: 100%; }
+
+	.beerisproof { flex-wrap: wrap; }
+
+	.beerisproof .beerisprright, .beerisproof .beerisprleft { padding: 0; margin-top: 30px; }
+
+	.edetail-boxright { padding: 30px 20px; }
+
+	.edetail-boxleft { padding: 30px 20px; }
+
+	.demo-gallery ul li { width: 50%; }
+
+	.demo-gallery ul li a { height: 300px; }
+
+	.demo-gallery ul { margin: 0; }
+
+	.edetail-boxright { padding: 30px 10px; }
+
+	.txtaligncenter { text-align: left; }
+
+	.txtalignright { text-align: left; }
+
+	.beerbrandswrapper .brandsshowwrapper { justify-content: space-between; margin: 0 -15px !important; }
+
+	.flexwrapper.flex3 .flexbox { flex: 50%; max-width: 50%; padding: 0 15px; margin-bottom: 30px !important; }
+
+	.flexwrapper figure img { max-width: 350px; }
+
+	.brandsshowwrapper .flexbox { margin: 0 0 30px 0 !important;  padding: 0; }
+
+	.orderformarea { margin-top: 30px; }
+
+	.orderformarea .ac-forminfotitle { margin-bottom: 30px; }
+
+	.order-checkbox .checkbox span { font-size: 14px; }
+
+	.order-checkbox .checkbox .input-helper:before { top: 5px; top: 7px; }
+
+	.checkbox .input-helper:after { top: 9px; }
+
+	.orderformlist ul { margin: 10px 0 0 0; }
+
+	.orderformlist { margin: 0 0 20px 0; }
+
+	.order-bannerarea { padding: 30px 30px; }
+
+	.order-bannerinner p { margin: 20px 0; }
+
+	.order-bannerinner h2 { font-size: 30px !important; }
+
+	.order-bannerarea { margin-top: 10px; }
+
+	.contactsectionright .form-group { padding: 5px 20px; }
+
+	.contactformwrapper { padding: 0 10px; }
+
+	.contactfooter { padding: 0 10px !important; margin-top: 10px; }
+
+	.contactformwrapper { padding: 0; }	
+
+	.orderformarea .custom-select select { height: 50px; }
+
+	.orderformarea .custom-select:before { height: 50px; } 
+
+	.orderformarea .custom-select:after { right: 32px; }
+
+	.ac-checkbox { height: 50px; }
+
+	.ac-checkbox .checkbox .input-helper:before { top: 15px; }
+
+	.ac-checkbox .checkbox .input-helper:after { top: 17px; }
+
+	.ac-formblock.flex-wrapper-three.acborder-bottom .form-group:nth-child(2) label { left: 20px; }
+
+	.ac-formblock.flex-wrapper-tow.acborder-bottom .form-group:last-child { padding: 0; }
+
+	.ac-formblock.flex-wrapper-tow.acborder-bottom .form-group:last-child label { left: 20px; }
+
+	.orderformarea .custom-select select { font-size: 14px; }
+
+	.beerbrandarea .beerbrandstabwrap .tabnav { display: none; }
+
+	.beerbrandarea .brandsshowwrapper { margin: 0; }
+
+	.beerbrandarea .brandsshowwrapper .flexbox { margin-bottom: 30px !important; }
+
+	.beerdetail-area .beerdetail-img, .beerdetail-area .beerdetail-text { width: 100%; padding: 0; } 
+
+	.beerdetail-area .beerdetail-img figure { width: 150px; margin: 0 auto; min-height: 210px; }
+
+	.beerdetail-area .beerdetail-img { margin-bottom: 15px; }
+
+	.beerdetail-area { padding: 20px; }
+
+	.beerdetail-area .beerdetail-text h2 { font-size: 26px !important; }
+
+	.beerdetail-area .beerdetail-text span { font-size: 14px; }
+
+	.beerbrandarea .btnitemcenter { margin: 30px 0 0; }
+
+	.welcomescreen-wrap, .welcomescreen-content { padding: 30px; }
+
+	.welcomescreen-inner { right: 30px; top: 30px; left: 30px; bottom: 30px; padding: 20px; }
+
+	.welcombtn .button { margin: 0 auto 15px; display: block; }
+
+	.welcomescreen-inner p { margin-bottom: 20px !important; font-size: 18px; }
+	.newslatter .emaillist form label input { font-size: 14px; padding: 4px 100px 4px 15px !important; }
+	.aboutsectionmain .aboutsectionwrap { margin: 0 !important; }
+	.on-tap-kingston a .kingston-innertext .kingston-title { font-size: 24px; margin-bottom: 5px; }
+	.on-tap-kingston a .kingston-innertext .kingston-viewall { font-size: 18px; }
+	.on-tap-kingston { margin-bottom: 30px; }
+	.aboutsectionmain .typeinfocontent { padding: 20px 0 0 0; }
+	.aboutsectionmain .typeinfocontent ul { padding-left: 15px; margin: 0; }
+	.beerworldbloginner { margin: 0; flex-wrap: wrap; }
+	.beerworldbloginner a { width: 100%; padding: 0; margin-bottom: 30px; }
+	.beerworldblogblock { min-height: auto; }
+	.locationi-detail .galleryarea { margin: 0; }
+	.locationi-detail .demo-gallery .demo-gallery-poster span { transform: translateY(-50%) scale(0.4); }
+	.location-contdetail { margin: 40px 0; }
+	.location-contdetail .cols .col { width: 50%; margin-bottom: 30px; }
+	.banner-title span { font-size: 20px; }
+	.page-template-location-detail-page .banner-title { margin-top: 20px !important; } 
+	.orderstypesection .flexwrapperend .bgimg { height: 320px; }
+	.locationi-detail .testimonialssection { margin: 0 }
+	.locationi-detail .galleryarea h2 { font-size: 24px !important; text-align: left; } 
+	.locationi-detail .demo-gallery ul li { margin: 0; }
+	.beerbrandssection .order-bannerarea { padding: 30px; }
+	.beerbrandssection .order-bannerinner h2 { margin-bottom: 20px !important; }
+	.beerbrandssection .order-bannerinner .ac-btn { margin-top: 20px; }
+	/*.mainmenubottom { bottom: 80px !important; }*/
+	.newslatter .mc4wp-form-fields input[type="email"] { padding-right: 88px !important; }
+	.kingstone-topsection .kingstone-topsectionleft { width: 100%; }
+	.kingstone-topsection .kingstone-topsectionright { width: 100%; padding: 20px 0 0; }
+	.kingstone-topsection .kingstone-topsectionleft .bgimg { height: 300px; }
+	.kingstone-topsection { margin-top: 40px; }
+	.on-tap-kingston .col { width: 50%; }
+	#menu_widget table.beermenu { overflow-x: auto; display: inline-block; }
+	.ontap-area .has-beer-description-row-1 td span.strong { font-size: 20px !important; }
+	.ontap-area #menu_widget table thead tr th { padding: 10px 20px; }
+	.ontap-area .has-beer-description-row-1 td { padding: 10px 20px 0 !important; }
+	.ontap-area .beer-description { padding: 0 20px 20px !important; }
+	.ontap-area #menu_widget table caption { padding: 10px 20px !important; }
+	.ontap-area #beer_menu .updated-at, .ontap-area #beer_menu .serving-types { padding: 10px 20px; margin: 0 !important; }
+	
+	.orderstypesectiontwoitems.orderstypesection .typeinfocontent { padding: 0; margin-top: 20px; }
+	 .orderstypesectiontwoitems.orderstypesection .typeinfocontent p { margin: 0 0 20px; }
+	 .select2-container--default .select2-selection--single .select2-selection__rendered { height: 50px; line-height: 45px; }
+	 .select2-container--default .select2-selection--single { height: 50px; }
+	 .ac-formbottomarea .form-group label { margin-top: -10px; }
+	 .select2-results__option { font-size: 14px; }
+	 input[type="text"], input[type="password"], input[type="email"], .customfile, input[type="tel"], input[type="search"], input[type="url"], textarea, select { padding: 4px 20px; }
+	 textarea { padding: 12px 20px; }
+	 .error-404 .search-form .search-submit { padding: 11px; }
+	.error-404 .search-form .search-submit .icon { height: 18px; width: 18px; }
+	.error-404 .page-content .search-form  input { padding: 4px 170px 4px 20px; }
+	.error-404 .page-content p { font-size: 16px; }
+	.nothingfound-area .search-submit .icon { width: 18px; height: 18px; }
+	.nothingfound-area .search-form .search-submit { line-height: 0; }
+	.nothingfound-flex { flex-wrap: wrap; }
+	.nothingfound-leftsearch { padding: 0; width: 100%; }
+	.nothingfound-sidebar { width: 100%; margin: 30px 0 0; }
+	.nothingfound-flex { margin: 50px 0; }
+	.nothingfound-flex .search-form  input { padding: 4px 65px 4px 20px; }
+	.nothingfound-area .search-form .search-submit { max-width: 100px; }
+	.nothingfound-sidebar .widget h2 { font-size: 20px !important; }
+	.nothingfound-leftsearch .page-header h1 { font-size: 28px !important; }
+	.nothingfound-area .status-publish header h2 { font-size: 22px !important; }
+	.nothingfound-area .status-publish { margin-bottom: 20px; }
+	.contactsectionright { padding: 0; }
+	.mainmenutop > ul li ul { left: 133%; }
+	#mainmenu .mainmenutop > ul > li.hasnav:hover:after { width: 71%; }	
+	#mainmenu .mainmenutop > ul > li:nth-child(5):hover:after { width: 13%; }
+	.aboutsectionwrapimg .bgimg { height:300px; }
+	.beertrendsblock { margin: 40px 0 30px; }
+	.beerholidaycalender .tab-container { width: 100%; padding: 40px 20px; }
+	.beerholidaycalender .tab-data { margin: 0; }
+	.page-template-beer-trend .flexwrapperend .typeinfocontent { padding: 15px 0 0 0; }
+	.page-template-beer-trend .orderstypesection { padding-bottom: 0; }
+	.page-template-beer-trend .wrap .orderstypesection:last-child { padding-bottom: 30px; }
+	.page-template-beer-trend .wrap .orderstypesection:last-child .flexwrapper { flex-direction: column-reverse; }
+	.page-template-beer-trend .wrap .orderstypesection .wrap { padding: 0 !important; }
+	.page-template-beer-trend .orderstypesection .flexwrapperend .bgimg { height: 350px; }
+	.beertrendsblock .cols .col .trendsboxs h2 { font-size: 24px; }
+	.powered-by-beermenus { padding: 0 20px; }
+}
+
+/*==========================================================================================================*/
+
+/* only iphone4 landscape & Potriat 300 by 480*/
+
+@media only screen and (max-width: 567px) {	
+
+	.default-grid.cols3 .col, .default-grid.cols2 .col, .default-grid.cols4 .col { width:auto; float:none; }
+
+	table.res-table tr th { display:none; }
+
+	table.res-table tr td { display:block; position:relative; padding-left:50%; }
+
+	table.res-table td:before { content: attr(data-th) ": "; font-weight: bold; width: 50%; display:block; padding-right:10px; position:absolute; left:0; top:0; padding:10px 10px; } 
+
+	table.res-table { border-top:0; }	
+
+	#logo { width:200px; }
+	.sub-menu li a { padding: 5px 30px !important; }
+
+	
+
+	.list-block.cols3 .col { width:100%; float:none; }
+
+	.image-block figure { width:100%; float:none; padding-right:0; }
+
+	.image-block.right-align figure { padding-left:0; }
+
+	h1, h2 { font-size:28px !important; }
+
+	.locationboxwrapper .cols .col { width:100%; }
+
+	.contactsectionleft li { width: 100%; height: 160px; }
+
+	.newslatter { width: 100%; }
+
+	input[type="text"], input[type="password"], input[type="email"], input[type="tel"], input[type="search"], input[type="url"], select { height: 45px; outline: none !important; }
+
+	.flogo { float: none; margin: 0 auto; display: inline-block; margin-bottom: 15px; }
+
+	.footertopwrap { text-align: center; }
+
+	.footerbottom .flinks li:before { margin: 0 5px; }
+
+	.footerbottom .flinks li a { font-size:14px; }
+
+	.footerbottom { padding: 10px 0; }
+
+	.footerbottom .copyright { margin-bottom: 5px !important; }
+
+	.contactformwrapper .cols2 .col { width: 100%; }
+
+	.clientname { margin: 0 0 15px; }
+
+	.aboutintro .bgimg { height: 350px; }
+
+	.aboutflexinnerwrapper .aboutflexinner.flex30 .bgimg { height: 300px; }
+
+	h5 { font-size: 20px !important; }
+
+	.mailcall { display:none; }
+
+	#logo { margin-right: 20px; max-width: 60px; padding: 5px 0; }
+
+	#menu { padding: 13px 20px; }
+
+	.buttongroup { max-width: 210px; margin: 0 auto; }
+
+	.buttongroup a { width:100%; margin:0 0 15px 0 !important; }
+
+	#mainbanner { height:450px; }
+
+	.mainbannercontent { padding: 0 15px; }
+
+	.aboutintrocontent p { font-size:15px; }
+
+	.aboutflexleft .bgimg { height:300px; }
+
+	h4 { font-size: 20px !important; }
+
+	h3 { font-size: 24px !important; }
+
+	.newslatter .button { padding: 12px 10px !important; }
+
+	.newslatter .form-group .button { padding:14px 26px !important; }
+
+	.newslatter .textbox { padding-right: 124px !important; }
+
+	.footerbottom .flinks li { float:none !important; display:inline-block !important; }
+
+	.orderstypesection .flexwrapperend .bgimg { height: 300px; }
+
+	.contactsectionright .contactfooter .txtalignright { float: none; margin: 0 auto;  margin-top: 0px; display: inline-block; width: 100%; text-align: center;
+
+    margin-top: 15px; }
+
+	
+
+	#header { padding: 4px 10px; }
+
+	#menu { position: absolute; right: -4px; border: 0; top: 15px; padding: 13px 20px; -webkit-transform: rotate(180deg); transform: rotate(180deg); transform-origin: center center; }
+
+	#menu em { display:none; }
+
+	#logo { display:inline-block; margin:0; position:relative; }
+
+	.menulines, .menulines:before, .menulines:after { height:2px; }
+
+	.menulines { width:35px; }
+
+	
+
+	#mainmenu ul { font-size:24px; }
+
+	#mainmenu .mainmenutop > ul > li { padding:12px 0; }
+
+	.mainmenutop > ul li ul { position: static; left: 0; opacity: 1; visibility: visible; transform: none; width: 100%; }
+
+	#mainmenu .mainmenutop > ul > li.hasnav:hover:after { display: none; }
+
+	#mainmenu .mainmenutop > ul { width: 100%; left: 0; }
+
+	.mainmenutop > ul li ul li { padding: 0; }
+
+	#mainmenu .mainmenutop > ul > li a { padding: 10px 15px; }
+
+	.mainmenutop > ul li ul li a:before { right: auto; left: 15px; top: 18px; }
+
+	#mainmenu .mainmenutop > ul > li > a { font-size: 18px; width: 100%; }
+
+	.mainmenutop ul li a:before { right: -4px; top: 25px; }
+
+	.mainmenutop > ul > li > a:before { display: none; }
+
+	.mainmenutop > ul li ul li { margin: 0; }
+
+	#mainmenu .mainmenutop > ul > li { padding: 0; }
+
+	.mainmenutop > ul > li > ul > li a { padding:5px 30px !important; font-size: 14px; width: 100%; display: inline-block; }
+
+	.navtrigger:before { content: ''; border: solid 2px #fff; border-left: 0; border-top: 0; position: absolute; left: auto;  right: 12px; top: 10px; -webkit-transform: rotate(45deg); transform: rotate(45deg); width: 8px; height: 8px; transition: all 0.3s; }
+	.navtrigger { content: ''; position: absolute; left: auto;  right: 0; top: 9px; width: 30px; height: 30px; transition: all 0.3s; z-index: 15; cursor: pointer; }
+
+	.navtrigger.active:before { -webkit-transform: rotate(220deg); transform: rotate(220deg); top: 13px; }
+
+	#mainmenu .mainmenutop > ul { top: 70px; transform: none; }
+
+	.progressbarmain ul li:after { width: 62px; height: 62px; right: -40%; }
+
+	.customfile span.cust-field { width: 42%; left: 20px; font-size: 14px; }
+
+	.customfileinput label { display: none; }
+
+	.eventsarea .cols .col { width: 100%; }
+
+	.location { top: 20px; left: 20px; }
+
+	.eventsboxtext { left: 20px; }
+
+	.beerisproof .beerisprright h2 { font-size: 28px !important; }
+
+	.beerisproof .beerisprright h2:before { transform: scale(0.6); height: 68px; left: -16px; top: -18px; }
+
+	.beerisproof { margin-bottom: 10px; }
+
+	.galleryarea h2 { font-size: 28px !important; }
+
+	.recenteventinner h3 { font-size: 18px !important; }
+
+	.recenteventinner .recevehos { font-size: 16px; } 
+
+	.recenteventinner .recevedate { font-size: 15px; }
+
+	.recevedate { margin-bottom: 5px !important; }
+
+	.demo-gallery ul li { width: 100%; }
+
+	.calendarbox #datepicker9 { padding: 0; }
+
+	.recenteventinner { width: 250px; }
+
+	.demo-gallery ul li a { height: auto; }
+
+	.demo-gallery ul li { padding: 0; }
+
+	.beerdetail-area .beerdetail-text h2 { font-size: 20px !important; }
+	.on-tap-kingston a { width: 100%; }
+	.location-contdetail .cols .col { width: 100%; }
+	.sub-menu { display: none; }
+	#mainmenu .mainmenutop > ul > li:hover ul { -webkit-transition: none; transition: none;  }
+	#mainmenu .mainmenutop { position: absolute; }
+	#mainmenu { min-height: unset; }
+	.on-tap-kingston .col { width: 100%; }
+	.error-404 .search-form .search-submit { max-width: 100px; }
+	.error-404 .page-content .search-form  input { padding: 4px 60px 4px 20px; }
+	.error-404 .page-header h1 { font-size: 100px !important; }
+	.error-404 .page-content p { font-size: 14px; }
+	.nothingfound-area .status-publish header h2 { font-size: 20px; }
+	.welcome { overflow-y: auto !important; }
+	.loactionswrapper { position: relative; top: 10%; padding: 0; }
+	#mainmenu .mainmenutop > ul { position: relative; }
+	.mainmenubottom { bottom: -80px; padding-bottom: 20px; }
+	.loactionssliderwrap .custom-dots { white-space: normal; }
+	.page-template-contact-page .contactsectionright .form-group { padding: 5px 0; }
+	.beertrendsblock .cols .col { flex: 0 0 100%; height: 260px; }
+	.beerholidaycalenderdate ul li { flex: 0 0 50%; max-width: 50%; }
+	.beercalendatebox span, .beercalendatebox p { font-size: 14px; }
+	.beercalendatebox h4 sup { font-size: 16px; }
+	.beerholidaycalenderdate ul { padding: 0 15px; }
+	.beercalendatebox h4 { font-size: 30px !important; }
+	.beerholidaybg .bgimg { height: 300px; }
+	.beerholidaycalender .tab-container { padding: 40px 20px 35px; }
+
+
+	
+}
+
+/*==========================================================================================================*/
+
+/* only iphone landscape 340 by 478*/
+
+@media only screen and (max-width: 480px) {
+
+	.form-inline .form-group label, .form-inline .form-group .field-box { float:none; display:block; width:auto; }
+
+	.form-inline .form-group label.blank { display:none; }
+
+	h1, h2 { font-size:30px; }
+	.beerholidaycalenderdate ul li { flex: 0 0 100%; max-width: 100%; }
+
+}
+
+/*==========================================================================================================*/
+
+/* only iphone portrait 300 by 479*/
+
+@media only screen and (max-width: 479px) {	
+
+	#logo { width:150px; }
+
+	#mainmenu { margin:12px 0 0; }
+
+	.ui-datepicker { -webkit-transform: scale(0.92); transform: scale(0.92); }
+		
+	.beerbrandarea .brandsshowwrapper { margin: 0 !important; }	
+
+	.flexwrapper.flex3 .flexbox { flex: 100%; max-width: 100%; padding: 0; }
+
+	.flexwrapper figure img { width: 100%; max-width: 100%; }	
+	.error-404 .page-header h1 { font-size: 80px !important; }
+	.mainmenubottom { bottom: -130px; }
+	.loactionssliderwrap .custom-dots { text-align: center; }
+}
+
+
+/*==========================================================================================================*/
+
+/* Retina css */ 
+
+/*@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 2) {
+
+	.sprites, .sp-after:after, .sp-before:before { background-image:url(../images/bgi/sprites@2x.png);
+
+	-moz-background-size:237px 207px; -ms-background-size:237px 207px; -o-background-size:237px 207px; -webkit-background-size:237px 207px; background-size:237px 207px;}
+
+}

@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://beerworldstore.com/sitemap.xml
